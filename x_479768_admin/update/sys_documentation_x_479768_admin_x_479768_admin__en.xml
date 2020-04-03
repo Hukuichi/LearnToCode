@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="テストデータ管理" language="en" table="x_479768_admin_x_479768_admin">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>テストデータ管理</label>
+            <language>en</language>
+            <name>x_479768_admin_x_479768_admin</name>
+            <plural>テストデータ管理s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 08:14:06</sys_created_on>
+            <sys_id>ba2547e32f3700108ba8d7a72799b62f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>テストデータ管理</sys_name>
+            <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
+            <sys_update_name>sys_documentation_x_479768_admin_x_479768_admin__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 08:14:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
