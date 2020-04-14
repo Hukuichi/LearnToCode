@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Need</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Need</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">73648b862f3300108ba8d7a72799b6cf</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 04:33:23</sys_created_on>
+        <sys_id>36b584a32f8454108ba8d7a72799b603</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Need</sys_name>
+        <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
+        <sys_update_name>sys_wizard_answer_36b584a32f8454108ba8d7a72799b603</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 04:33:23</sys_updated_on>
+        <table/>
+        <target_url>x_479768_admin_need.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

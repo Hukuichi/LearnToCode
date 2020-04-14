@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="b4654be32f3700108ba8d7a72799b65c" sys_domain="global" table="x_479768_admin_x_479768_admin" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 08:15:03</sys_created_on>
+            <sys_id>f0654be32f3700108ba8d7a72799b69a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_479768_admin_x_479768_admin" sys_domain="global" view="Default view">b4654be32f3700108ba8d7a72799b65c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 08:15:03</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratings.xml</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 08:15:03</sys_created_on>
+            <sys_id>f8654be32f3700108ba8d7a72799b6a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_479768_admin_x_479768_admin" sys_domain="global" view="Default view">b4654be32f3700108ba8d7a72799b65c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 08:15:03</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 08:15:03</sys_created_on>
+            <sys_id>bc654be32f3700108ba8d7a72799b6a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_479768_admin_x_479768_admin" sys_domain="global" view="Default view">b4654be32f3700108ba8d7a72799b65c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 08:15:03</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 08:15:03</sys_created_on>
+            <sys_id>30654be32f3700108ba8d7a72799b6a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_479768_admin_x_479768_admin" sys_domain="global" view="Default view">b4654be32f3700108ba8d7a72799b65c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 08:15:03</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_479768_admin_x_479768_admin</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 08:15:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4654be32f3700108ba8d7a72799b65c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
+            <sys_update_name>sys_ui_section_b4654be32f3700108ba8d7a72799b65c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 08:15:03</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Admin">af889a672fb300108ba8d7a72799b634</application>
+        <file_path/>
+        <instance_id>358202c1db3e441049eac597059619f7</instance_id>
+        <instance_name>dev99310</instance_name>
+        <name>sys_ui_section_b4654be32f3700108ba8d7a72799b65c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New Section" section_id="b4654be32f3700108ba8d7a72799b65c" sys_domain="global" table="x_479768_admin_x_479768_admin" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 08:15:03</sys_created_on>
+            <sys_id>f0654be32f3700108ba8d7a72799b69a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_479768_admin_x_479768_admin" sys_domain="global" view="Default view">b4654be32f3700108ba8d7a72799b65c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 08:15:03</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratings.xml</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 08:15:03</sys_created_on>
+            <sys_id>f8654be32f3700108ba8d7a72799b6a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_479768_admin_x_479768_admin" sys_domain="global" view="Default view">b4654be32f3700108ba8d7a72799b65c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 08:15:03</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 08:15:03</sys_created_on>
+            <sys_id>bc654be32f3700108ba8d7a72799b6a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_479768_admin_x_479768_admin" sys_domain="global" view="Default view">b4654be32f3700108ba8d7a72799b65c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 08:15:03</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 08:15:03</sys_created_on>
+            <sys_id>30654be32f3700108ba8d7a72799b6a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_479768_admin_x_479768_admin" sys_domain="global" view="Default view">b4654be32f3700108ba8d7a72799b65c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 08:15:03</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_479768_admin_x_479768_admin</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-02 08:15:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4654be32f3700108ba8d7a72799b65c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
+            <sys_update_name>sys_ui_section_b4654be32f3700108ba8d7a72799b65c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-02 08:15:03</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>]]></payload>
+        <payload_hash>117127843</payload_hash>
+        <record_name>テストデータ管理</record_name>
+        <reverted_from/>
+        <source>5455c8632f8454108ba8d7a72799b6f0</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 04:31:45</sys_created_on>
+        <sys_id>c755cc632f8454108ba8d7a72799b620</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17176f5160b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 04:31:45</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>4755cc630b8454101cd467c041fe4920</update_guid>
+        <update_guid_history>4755cc630b8454101cd467c041fe4920:0,24550c63528454109919bc2e1458525b:1768908660,53717b17e4445410de67e017229a2e10:0,c4717717c24454105fee690d788645d4:1768908660,ad67eb8baec81410613ab52044ad9ef8:0,20376f4b7fc814103647ed314697955d:1768908660,4a2913bcaa80101071dfae60e3784610:0,fb095b7c40801010e2be83ec1eaaa25e:1768908660,b4654be3b8370010ac1322d966c655a2:286785167</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 04:52:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>9af6b75a66124649a59e7a155014eff1</sys_id>
+        <sys_metadata>b4654be32f3700108ba8d7a72799b65c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
+        <sys_parent display_value="">0905c3e32f3700108ba8d7a72799b69d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
+        <sys_scope_delete display_value="">2eabc59a86f7444c973427c792c3b464</sys_scope_delete>
+        <sys_update_name>sys_ui_section_b4654be32f3700108ba8d7a72799b65c</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_b4654be32f3700108ba8d7a72799b65c">c755cc632f8454108ba8d7a72799b620</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 04:52:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

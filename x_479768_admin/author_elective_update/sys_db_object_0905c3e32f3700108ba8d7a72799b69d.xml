@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>テストデータ管理</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_479768_admin_x_479768_admin</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-02 08:14:05</sys_created_on>
+        <sys_id>0905c3e32f3700108ba8d7a72799b69d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>テストデータ管理</sys_name>
+        <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
+        <sys_update_name>sys_db_object_0905c3e32f3700108ba8d7a72799b69d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-02 08:14:05</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_479768_admin._user" name="x_479768_admin._user">ea25cfa32f3700108ba8d7a72799b667</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Admin">af889a672fb300108ba8d7a72799b634</application>
+        <file_path/>
+        <instance_id>358202c1db3e441049eac597059619f7</instance_id>
+        <instance_name>dev99310</instance_name>
+        <name>sys_db_object_0905c3e32f3700108ba8d7a72799b69d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>テストデータ管理</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_479768_admin_x_479768_admin</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-02 08:14:05</sys_created_on>
+        <sys_id>0905c3e32f3700108ba8d7a72799b69d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>テストデータ管理</sys_name>
+        <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
+        <sys_update_name>sys_db_object_0905c3e32f3700108ba8d7a72799b69d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-02 08:14:05</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_479768_admin._user" name="x_479768_admin._user">ea25cfa32f3700108ba8d7a72799b667</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>]]></payload>
+        <payload_hash>178174990</payload_hash>
+        <record_name>テストデータ管理</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 04:31:43</sys_created_on>
+        <sys_id>9e558c632f8454108ba8d7a72799b650</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17176f50c9c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 04:31:43</sys_updated_on>
+        <type>Table</type>
+        <update_guid>5e558c63c8845410fac75b5f3b6cfb50</update_guid>
+        <update_guid_history>78550c634b845410cc49c1fb8993e5c1:764766496,5471b717e74454107962855554582d3b:764766496,4d37af4b12c81410175a56afbf6b160e:764766496,d8195b7c5d80101023d451143757d8c3:764766496,7e2547e3f237001010974c556920764d:1512599060</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 04:52:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>b5525b821a274a95a55f25af5f677a29</sys_id>
+        <sys_metadata>0905c3e32f3700108ba8d7a72799b69d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>テストデータ管理</sys_name>
+        <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
+        <sys_scope_delete display_value="">2eabc59a86f7444c973427c792c3b464</sys_scope_delete>
+        <sys_update_name>sys_db_object_0905c3e32f3700108ba8d7a72799b69d</sys_update_name>
+        <sys_update_version display_value="sys_db_object_0905c3e32f3700108ba8d7a72799b69d">9e558c632f8454108ba8d7a72799b650</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 04:52:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

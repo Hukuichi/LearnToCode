@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Test">a051b2672ff300108ba8d7a72799b6f6</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Tests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_479768_admin_test</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_479768_admin.test_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-02 06:47:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2851b2672ff300108ba8d7a72799b6f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
+        <sys_update_name>sys_app_module_2851b2672ff300108ba8d7a72799b6f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-02 06:47:22</sys_updated_on>
+        <timeline_page/>
+        <title>Tests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Admin">af889a672fb300108ba8d7a72799b634</application>
+        <file_path/>
+        <instance_id>358202c1db3e441049eac597059619f7</instance_id>
+        <instance_name>dev99310</instance_name>
+        <name>sys_app_module_2851b2672ff300108ba8d7a72799b6f9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Test">a051b2672ff300108ba8d7a72799b6f6</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Tests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_479768_admin_test</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_479768_admin.test_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-02 06:47:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2851b2672ff300108ba8d7a72799b6f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
+        <sys_update_name>sys_app_module_2851b2672ff300108ba8d7a72799b6f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-02 06:47:22</sys_updated_on>
+        <timeline_page/>
+        <title>Tests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>]]></payload>
+        <payload_hash>787415824</payload_hash>
+        <record_name>Tests</record_name>
+        <reverted_from/>
+        <source>5455c8632f8454108ba8d7a72799b6f0</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 04:31:44</sys_created_on>
+        <sys_id>ae558c632f8454108ba8d7a72799b6a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17176f510be0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 04:31:44</sys_updated_on>
+        <type>Module</type>
+        <update_guid>2e558c63d18454104c37336d7761c4a6</update_guid>
+        <update_guid_history>2e558c63d18454104c37336d7761c4a6:0,c1550c633b845410e632a7cb3a3e06ef:1474142055,3e713b17f5445410f1c525b453d63280:0,a471b7172f44541065212f0c0fdc506a:1474142055,c167eb8beec81410ada7259015d5a173:0,ea37ef4b30c814108818b4957634dcfa:1474142055,9129df7c478010102471feee99a5817f:0,9a191f7c8a801010f13cfdf74a43d398:1474142055,6051b26750f3001067d9ceee52c4fdfc:-1637513630</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Tests">5099c0672f8454108ba8d7a72799b66c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 04:50:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>294c1aacde1d45b7adc148a22c37d6d1</sys_id>
+        <sys_metadata>2851b2672ff300108ba8d7a72799b6f9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tests</sys_name>
+        <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
+        <sys_scope_delete display_value="">2eabc59a86f7444c973427c792c3b464</sys_scope_delete>
+        <sys_update_name>sys_app_module_2851b2672ff300108ba8d7a72799b6f9</sys_update_name>
+        <sys_update_version display_value="sys_app_module_2851b2672ff300108ba8d7a72799b6f9">ae558c632f8454108ba8d7a72799b6a6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 04:50:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_479768_admin_test</description>
+        <name>x_479768_admin_test</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-02 06:47:23</sys_created_on>
+        <sys_id>ac51f2672ff300108ba8d7a72799b60a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_479768_admin_test</sys_name>
+        <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
+        <sys_update_name>sys_security_acl_ac51f2672ff300108ba8d7a72799b60a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-02 06:47:23</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Admin">af889a672fb300108ba8d7a72799b634</application>
+        <file_path/>
+        <instance_id>358202c1db3e441049eac597059619f7</instance_id>
+        <instance_name>dev99310</instance_name>
+        <name>sys_security_acl_ac51f2672ff300108ba8d7a72799b60a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_479768_admin_test</description>
+        <name>x_479768_admin_test</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-02 06:47:23</sys_created_on>
+        <sys_id>ac51f2672ff300108ba8d7a72799b60a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_479768_admin_test</sys_name>
+        <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
+        <sys_update_name>sys_security_acl_ac51f2672ff300108ba8d7a72799b60a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-02 06:47:23</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>]]></payload>
+        <payload_hash>796414692</payload_hash>
+        <record_name>x_479768_admin_test</record_name>
+        <reverted_from/>
+        <source>5455c8632f8454108ba8d7a72799b6f0</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 04:31:44</sys_created_on>
+        <sys_id>f2558c632f8454108ba8d7a72799b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17176f512a30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 04:31:44</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>72558c6343845410ade9b51a7fa968cc</update_guid>
+        <update_guid_history>72558c6343845410ade9b51a7fa968cc:0,01550c63d48454100d6897d70726ffe4:-686099310,8b713b174a445410537f1fb8091928cc:0,6c71b717294454100bacf0053375cf5e:-686099310,5d67eb8bc5c814103b686ee640d267a4:0,aa37ef4bb5c8141060ae0a8fe9bbf2ee:-686099310,f529df7c748010105b3f4cf4cea246bd:0,12191f7c828010109212c957d3c86e8d:-686099310,6451f267c9f30010b9de9c50101c6919:895005214</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 04:52:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>01c99b326517445480051b8239891499</sys_id>
+        <sys_metadata>ac51f2672ff300108ba8d7a72799b60a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_479768_admin_test</sys_name>
+        <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
+        <sys_parent display_value="">ee558c632f8454108ba8d7a72799b670</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
+        <sys_scope_delete display_value="">2eabc59a86f7444c973427c792c3b464</sys_scope_delete>
+        <sys_update_name>sys_security_acl_ac51f2672ff300108ba8d7a72799b60a</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_ac51f2672ff300108ba8d7a72799b60a">f2558c632f8454108ba8d7a72799b6cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 04:52:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

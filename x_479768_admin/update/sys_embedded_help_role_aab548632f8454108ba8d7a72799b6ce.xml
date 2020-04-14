@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>10</order>
-        <role display_value="">6805fa7f2f3f00108ba8d7a72799b60b</role>
+        <role display_value="x_479768_admin.need_user" name="x_479768_admin.need_user">26b548632f8454108ba8d7a72799b6cb</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-04-03 01:41:58</sys_created_on>
-        <sys_id>6c05fa7f2f3f00108ba8d7a72799b60f</sys_id>
+        <sys_created_on>2020-04-14 04:33:22</sys_created_on>
+        <sys_id>aab548632f8454108ba8d7a72799b6ce</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>6805fa7f2f3f00108ba8d7a72799b60b</sys_name>
+        <sys_name>26b548632f8454108ba8d7a72799b6cb</sys_name>
         <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
         <sys_policy/>
         <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
-        <sys_update_name>sys_embedded_help_role_6c05fa7f2f3f00108ba8d7a72799b60f</sys_update_name>
+        <sys_update_name>sys_embedded_help_role_aab548632f8454108ba8d7a72799b6ce</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-03 01:41:58</sys_updated_on>
+        <sys_updated_on>2020-04-14 04:33:22</sys_updated_on>
     </sys_embedded_help_role>
 </record_update>

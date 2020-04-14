@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Test</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_479768_admin_test</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-02 06:47:22</sys_created_on>
+        <sys_id>ca2172672ff300108ba8d7a72799b667</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
+        <sys_update_name>sys_db_object_ca2172672ff300108ba8d7a72799b667</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-02 06:47:22</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_479768_admin.test_user" name="x_479768_admin.test_user">1c517e6f2fb300108ba8d7a72799b641</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Admin">af889a672fb300108ba8d7a72799b634</application>
+        <file_path/>
+        <instance_id>358202c1db3e441049eac597059619f7</instance_id>
+        <instance_name>dev99310</instance_name>
+        <name>sys_db_object_ca2172672ff300108ba8d7a72799b667</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Test</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_479768_admin_test</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-02 06:47:22</sys_created_on>
+        <sys_id>ca2172672ff300108ba8d7a72799b667</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
+        <sys_update_name>sys_db_object_ca2172672ff300108ba8d7a72799b667</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-02 06:47:22</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_479768_admin.test_user" name="x_479768_admin.test_user">1c517e6f2fb300108ba8d7a72799b641</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>]]></payload>
+        <payload_hash>759092179</payload_hash>
+        <record_name>Test</record_name>
+        <reverted_from/>
+        <source>5455c8632f8454108ba8d7a72799b6f0</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 04:31:43</sys_created_on>
+        <sys_id>d2558c632f8454108ba8d7a72799b655</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17176f50ce10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 04:31:43</sys_updated_on>
+        <type>Table</type>
+        <update_guid>52558c63c884541011cdbe0ca81beb55</update_guid>
+        <update_guid_history>52558c63c884541011cdbe0ca81beb55:0,d9554c63678454104bc2ca0b8777db59:-12529669,2e713b1787445410d54c77d937e09932:0,4971b717af445410105b228cb86016d5:-12529669,7067ab8b54c81410f1fbf50b57e769f7:0,cf37238b7ac81410aeaaab24b3652ba6:-12529669,7429df7c9980101034496c6b19d0dd03:0,fe195f7c55801010f1003c2347128750:-12529669,b451f267e7f300109a06cb0ed141c24e:74692079</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 04:52:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>0a8108811541417a807415793311d624</sys_id>
+        <sys_metadata>ca2172672ff300108ba8d7a72799b667</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
+        <sys_scope_delete display_value="">2eabc59a86f7444c973427c792c3b464</sys_scope_delete>
+        <sys_update_name>sys_db_object_ca2172672ff300108ba8d7a72799b667</sys_update_name>
+        <sys_update_version display_value="sys_db_object_ca2172672ff300108ba8d7a72799b667">d2558c632f8454108ba8d7a72799b655</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 04:52:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
