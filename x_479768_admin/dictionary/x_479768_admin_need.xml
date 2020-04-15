@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="Need" max_length="40" name="x_479768_admin_need" type="collection">
+    <element audit="true" extends="task" label="Need" max_length="40" name="x_479768_admin_need" sizeclass="1" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" default="legal" label="Request type" mandatory="true" max_length="40" name="u_choice_4" type="string">
             <choice>
                 <element inactive_on_update="false" label="Human Resources" sequence="0" value="hr"/>
