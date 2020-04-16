@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="Need" max_length="40" name="x_479768_admin_need" sizeclass="1" type="collection">
+    <element audit="true" extends="task" label="Need" max_length="40" name="x_479768_admin_need" sizeclass="4" type="collection">
+        <element attributes="target_field=percent_complete_target,target_threshold_colors=0:color1;33:color2;66:color3;90:color4&#13;&#10;,target_field=target" label="% complete" max_length="15" name="complete" type="percent_complete"/>
+        <element label="Target" max_length="20" name="target" type="decimal"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="legal" label="Request type" mandatory="true" max_length="40" name="u_choice_4" type="string">
             <choice>
                 <element inactive_on_update="false" label="Human Resources" sequence="0" value="hr"/>

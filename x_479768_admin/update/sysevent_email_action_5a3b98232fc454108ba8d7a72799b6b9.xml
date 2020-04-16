@@ -8,7 +8,7 @@
         <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
         <collection>x_479768_admin_need</collection>
         <condition/>
-        <content_type>text/html</content_type>
+        <content_type>multipart/mixed</content_type>
         <default_interval/>
         <description/>
         <digest_from/>
@@ -36,6 +36,7 @@
         <mandatory>false</mandatory>
         <message/>
         <message_html><![CDATA[<p><strong>${mail_script:CountOverdueNeedItTasksAssignedTo} </strong></p>
+<p><strong>${mailto:mailto.closeneedittask}</strong></p>
 <p><strong>Dear ${assigned_to.first_name},</strong></p>
 <p><strong>An overdue NeedIt Task is assigned to you:</strong>.</p>
 <p>Number: ${number}</p>
@@ -56,7 +57,7 @@
         <send_self>true</send_self>
         <sms_alternate/>
         <style/>
-        <subject>Overdue NeedIt Task: ${number}</subject>
+        <subject/>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -64,7 +65,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5a3b98232fc454108ba8d7a72799b6b9</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Overdue Need Task</sys_name>
         <sys_overrides/>
         <sys_package display_value="Admin" source="x_479768_admin">af889a672fb300108ba8d7a72799b634</sys_package>
@@ -72,7 +73,7 @@
         <sys_scope display_value="Admin">af889a672fb300108ba8d7a72799b634</sys_scope>
         <sys_update_name>sysevent_email_action_5a3b98232fc454108ba8d7a72799b6b9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-15 01:51:42</sys_updated_on>
+        <sys_updated_on>2020-04-15 02:31:08</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
